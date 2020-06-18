@@ -1,4 +1,4 @@
-# AccessBellAppledSDK
+# AccessBellAppleSDK
 IOS SDK for AccessBell video conferencing
 
 The following is a guide on how to set up the sdk in an existing Apple project.
