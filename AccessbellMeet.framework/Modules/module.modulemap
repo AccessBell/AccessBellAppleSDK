@@ -1,0 +1,11 @@
+framework module AccessbellMeet {
+  umbrella header "AccessbellMeet.h"
+
+  export *
+  module * { export * }
+}
+
+module AccessbellMeet.Swift {
+    header "AccessbellMeet-Swift.h"
+    requires objc
+}
