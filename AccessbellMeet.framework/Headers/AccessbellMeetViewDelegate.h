@@ -1,5 +1,3 @@
-
-
 @protocol AccessbellMeetViewDelegate <NSObject>
 
 @optional
